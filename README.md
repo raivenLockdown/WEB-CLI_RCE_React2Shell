@@ -23,7 +23,7 @@ This tool has three main ways to run commands: a simple single command, a full i
 1.  **Get the code:**
 
     ```bash
-    git clone https://github.com/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-.git
+    git clone https://github.com/raivenLockdown/WEB-CLI_RCE_React2Shell.git
     cd REACT2SHELL
     ```
 
